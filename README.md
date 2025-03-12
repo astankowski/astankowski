@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a Computer Science student. While I enjoy exploring a wide range of topics in this field, lately, I’ve been mainly focused on building web applications from start to finish. I want to create complete and useful tools, so I guess becoming a full-stack developer is the path I’m currently pursuing.
+I’m a Computer Science student. While I enjoy exploring a wide range of topics in this field, lately, I’ve been mainly focused on building web applications.
 
 ![](https://komarev.com/ghpvc/?username=astankowski)
 
